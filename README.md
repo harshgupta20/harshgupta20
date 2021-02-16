@@ -11,11 +11,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Harsh Gupta | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Harsh Gupta | Youtube" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-[<img align="left" alt="Harsh Gupta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Harsh Gupta | LinkedIn" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="Harsh Gupta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Harsh Gupta | Instagram" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -70,6 +70,6 @@
 
 ---
 
-[twitter]: https://www.youtube.com/channel/UCgOGB-nEFf0Z-7ofryoRdEg
+[youtube]: https://www.youtube.com/channel/UCgOGB-nEFf0Z-7ofryoRdEg
 [instagram]: https://www.instagram.com/i.m.harshgupta/
 [linkedin]: https://www.linkedin.com/in/harshgupta2001/
