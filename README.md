@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Content Creator and Student !!!
 
-- 🌱 I’m currently learning everything 🤣.
+- 🌱 I’m currently learning Web3 and Product Development 🙌.
 - 👯 I’m looking to collaborate with other awesome developer😎.
 - 🥅 2025 Goal: Contribute in more open source projects.
 - ⚡ Fun fact: I code better at night 😁.
