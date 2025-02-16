@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣.
 - 👯 I’m looking to collaborate with other awesome developer😎.
-- 🥅 2023 Goal: Contribute in more open source projects.
+- 🥅 2025 Goal: Contribute in more open source projects.
 - ⚡ Fun fact: I code better at night 😁.
 
 ### Connect with me:
